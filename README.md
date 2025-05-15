@@ -84,7 +84,7 @@ Team-10:
 - Matheo Gilbert Judenne (250AEB016)
 - Ruslan Nasirov (231ADB129)
 - Preowei Samuel Fakrogha (231ADB012)
-- Emil Babayev
+- Emil Babayev (231ADB291)
 
 ## Acknowledgments
 
